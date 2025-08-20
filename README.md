@@ -31,19 +31,19 @@ audio_chatbot_code.ipynb
 - Save the AI reply as reply.mp3
 
 ## Example
-# Input (speech):
+Input (speech):
 ```bash
 السلام عليكم ورحمة الله وبركاته
 ```
-# Extracted Text:
+Extracted Text:
 ```bash
 السلام عليكم ورحمة الله وبركاته
 ```
-# AI Reply:
+AI Reply:
 ```bash
 وعليكم السلام ورحمة الله وبركاته، أهلاً بك في مساعدك الشخصي! كيف يمكنني مساعدتك اليوم؟
 ```
-# Output Audio:
+Output Audio:
 An MP3 file (reply.mp3) with the spoken response.
 
 ## Notes
